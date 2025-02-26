@@ -124,5 +124,6 @@ void printMinefield(char** minefield, int M, int N, int K){
         printf("\n");
         fprintf(fptr, "\n");
     }
+    fclose(fptr);
     printf("\nSuccessfully saved to file \"Minesweeper_Lite.txt\"");
 }
