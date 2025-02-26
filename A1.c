@@ -39,7 +39,7 @@ int main(){
     return 0;
 }
 
-//Counters are manipulated via ponters
+//Counters are manipulated via pointers
 void prodFinder(int* pr, int* max, int* prod12, int* prod45){
     for(int i=0; i< *max; i++){
         if(pr[i]>= 10 && pr[i]<= 20){
