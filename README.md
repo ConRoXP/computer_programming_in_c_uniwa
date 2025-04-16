@@ -1,5 +1,5 @@
 # Computer Programming in C
-Upon successful completion of the course, the student must:  
+Goals of this course:  
 
 • Understand the syntax of the C language and be familiar with the Integrated Development Environment (eg. editor, compiler, software libraries, reference manuals, online help)  
 • Construct with relative ease the basic programming statements: data types, variables, constants, value assignments, expressions, loops and control structures  
